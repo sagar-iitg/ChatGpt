@@ -1,4 +1,5 @@
 ChatGpt/src/main/resources/application-dev.properties
 application-dev.properties
-.idea
+.idea/
+target
 
